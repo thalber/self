@@ -20,3 +20,4 @@ I speak English, Russian, C# (mostly modding), Rust. Planned practice: Lua, Lisp
 - fedi - https://tech.lgbt/@thalber
 - discord - thalber#0503
 - steam - https://steamcommunity.com/id/thabaa--/
+- email - thalber.public@gmail.com
