@@ -5,6 +5,8 @@ This is thalber's personal page.
 
 I speak English, Russian, C# (mostly modding), Rust. Planned practice: Lua, Lisp/Scheme.
 
+I accept coding requests and commissions, no pricelist yet.
+
 ### Public projects
 
 Selection of public technical projects I am/was involved with:
