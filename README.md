@@ -29,7 +29,7 @@ My writing and other things done for fun:
 
 ## Contacts
 
-- fedi - https://tech.lgbt/@thalber
+- <a href="https://tech.lgbt/@thalber">fediverse</a> 
 - discord - thalber (previously thalber#0503)
-- steam - https://steamcommunity.com/id/thabaa--/
+- <a href="https://steamcommunity.com/id/thabaa--/">Steam</a>
 - email - thalber.public@gmail.com
