@@ -11,25 +11,24 @@ I accept coding requests and commissions, no pricelist yet.
 
 Selection of public technical projects I am/was involved with:
 
-- Mod manager app for Rain World (C#, GUI, archived) - https://github.com/Rain-World-Modding/BOI
-- Large dependency library for other mods (C#, mod, legacy maintenance) - https://github.com/Rain-World-Modding/RegionKit
-- Another dependency library for other mods (C#, mod, legacy maintenance) - https://github.com/Rain-World-Modding/Pom
-- A scripting layer hacked into Rain World (C#, mod) - https://github.com/thalber/Atmo
-- Asset organizer for Rain World level editor (Rust, standalone app, GUI) - https://github.com/thalber/rw_tileman
+- [Mod manager app for Rain World (C#, GUI, archived)](https://github.com/Rain-World-Modding/BOI)
+- [Large dependency library for other mods (C#, mod, legacy maintenance)](https://github.com/Rain-World-Modding/RegionKit)
+- [Another dependency library for other mods (C#, mod, legacy maintenance)[(https://github.com/Rain-World-Modding/Pom)
+- [A scripting layer hacked into Rain World (C#, mod)](https://github.com/thalber/Atmo)
+- [Asset organizer for Rain World level editor (Rust, standalone app, GUI)](https://github.com/thalber/rw_tileman)
 
-- Russian translation of Rain World (localization, mod) - https://github.com/thalber/RW-RU
-- Russian translation of Deep Rock Galactic (localization) - https://crowdin.com/project/deep-rock-galactic
+- [Russian translation of Rain World (localization, mod)](https://github.com/thalber/RW-RU)
+- [Russian translation of Deep Rock Galactic (localization)])https://crowdin.com/project/deep-rock-galactic)
 
 ### Personal projects
 
 My writing and other things done for fun:
 
-- https://thalber.github.io/CR/
-- https://thalber.github.io/SF/
-
+- [CR](https://thalber.github.io/CR/)
+- [SF](https://thalber.github.io/SF/)
 ## Contacts
 
-- <a href="https://tech.lgbt/@thalber">fediverse</a> 
+- [fediverse](https://tech.lgbt/@thalber)
 - discord - thalber (previously thalber#0503)
-- <a href="https://steamcommunity.com/id/thabaa--/">Steam</a>
+- [Steam](https://steamcommunity.com/id/thabaa--/)
 - email - thalber.public@gmail.com
