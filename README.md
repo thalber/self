@@ -5,8 +5,6 @@ This is thalber's personal page.
 
 I speak English, Russian, C# (mostly modding), Rust. Planned practice: Lua, Lisp/Scheme.
 
-I accept coding requests and commissions, no pricelist yet.
-
 ### Public projects
 
 Selection of public technical projects I am/was involved with:
@@ -28,7 +26,8 @@ My writing and other things done for fun:
 - [SF](https://thalber.github.io/SF/)
 ## Contacts
 
-- [fediverse](https://tech.lgbt/@thalber)
+<!--- [fediverse](https://tech.lgbt/@thalber)-->
+- [GitHub](https://github.com/thalber/)
 - discord - thalber (previously thalber#0503)
 - [Steam](https://steamcommunity.com/id/thabaa--/)
 - email - thalber.public@gmail.com
