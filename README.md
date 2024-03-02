@@ -29,5 +29,6 @@ My writing and other things done for fun:
 <!--- [fediverse](https://tech.lgbt/@thalber)-->
 - [GitHub](https://github.com/thalber/)
 - discord - thalber (previously thalber#0503)
+- matrix - @thalber:zoner.work
 - [Steam](https://steamcommunity.com/id/thabaa--/)
 - email - thalber.public@gmail.com
