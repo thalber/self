@@ -1,9 +1,10 @@
+# thalber's writing
 
 ## bigger stuff
 
 Things that earned their own repos
 
-### [Stride again](https://thalber.github.io/stride_again/)
+### [stride again](https://thalber.github.io/stride_again/)
 
 Slow eldritch apocalypse witness chatlog.
 
@@ -11,7 +12,7 @@ This is a homestuck, apparently. I had not read homestuck or even really know wh
 
 Two characters, minimal exposition, extremely limited scope. Tried to properly focus on character dynamics for the first time and apparently it worked well enough that like 6 people told me I should continue. That's a personal best as of 02.10.24
 
-### [CR](https://thalber.github.io/CR/)
+### [cr](https://thalber.github.io/CR/)
 
 Nerdy sci-fi. No humans.
 
