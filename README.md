@@ -18,12 +18,10 @@ Selection of public technical projects I am/was involved with:
 - [Russian translation of Rain World (localization, mod)](https://github.com/thalber/RW-RU)
 - [Russian translation of Deep Rock Galactic (localization)](https://crowdin.com/project/deep-rock-galactic)
 
-### Personal projects
+### Creative projects
 
-My writing and other things done for fun:
+My writing is [here](writing/index).
 
-- [CR](https://thalber.github.io/CR/)
-- [SF](https://thalber.github.io/SF/)
 ## Contacts
 
 <!--- [fediverse](https://tech.lgbt/@thalber)-->
