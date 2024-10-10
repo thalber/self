@@ -2,9 +2,11 @@
 
 ## bigger stuff
 
-Things that earned their own repos
+Things that earned their own repos.
 
 ### [stride again](https://thalber.github.io/stride_again/)
+
+**Even in the face of change, your old enemies can help.**
 
 Slow eldritch apocalypse witness chatlog.
 
@@ -14,6 +16,8 @@ Two characters, minimal exposition, extremely limited scope. Tried to properly f
 
 ### [cr](https://thalber.github.io/CR/)
 
+**In a desert you wish was dead, you run from your chained kin.**
+
 Nerdy sci-fi. No humans.
 
 Human name missing. Originally a [Lost Terminal](https://lostterminal.com) fanfiction, which I scope-crept so much it became impossible to reasonably develop. Despite technically being a fanfiction, it shares exactly zero characters, locations or explicit events with original material, though inherits the genre (journal-based, sci-fi, autistic POV character) and some worldbuilding aspects.
@@ -22,9 +26,11 @@ Honestly not very good, lacks meaningful character development. Only suitable fo
 
 ## smaller stuff
 
-Things that did not earn their own repos
+Things that did not earn their own repos.
 
 ## returners' lance
+
+**You are back, but Ares is different. Mother is pristine. Aphrodite sings. There is nowhere to run from Lance's neat halls, there is nowhere to hide but your digital dreams.**
 
 Low sci-fi. No humans.
 
@@ -34,6 +40,8 @@ Low sci-fi. No humans.
 - [03](rl_03)
 
 ## RIQ
+
+**Under a cruel hexagonal sky, you will miss the rotten breath of the woods. Do not stop.**
 
 Biopunk, sci-fi. Yes humans. Kinda.
 
