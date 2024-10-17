@@ -14,6 +14,8 @@ This is a homestuck, apparently. I had not read homestuck or even really know wh
 
 Two characters, minimal exposition, extremely limited scope. Tried to properly focus on character dynamics for the first time and apparently it worked well enough that like 6 people told me I should continue. That's a personal best as of 02.10.24
 
+Mirrored on [ao3](https://archiveofourown.org/works/59797834).
+
 ### [cr](https://thalber.github.io/CR/)
 
 **In a desert you wish was dead, you run from your chained kin.**
@@ -24,6 +26,8 @@ Human name missing. Originally a [Lost Terminal](https://lostterminal.com) fanfi
 
 Honestly not very good, lacks meaningful character development. Only suitable for a rare "my god she's literally me". It's the longest and the most boring one.
 
+Mirrored on [ao3](https://archiveofourown.org/works/59797303).
+
 ## smaller stuff
 
 Things that did not earn their own repos.
@@ -32,6 +36,8 @@ Things that did not earn their own repos.
 
 **You are back, but Ares is different. Mother is pristine. Aphrodite sings. There is nowhere to run from Lance's neat halls, there is nowhere to hide but your digital dreams.**
 
+It’s about lonely machines, the weight of history, and helping your friends.
+
 Low sci-fi. No humans.
 
 - [00](rl_00)
@@ -39,6 +45,8 @@ Low sci-fi. No humans.
 - [02](rl_02)
 - [03](rl_03)
 - [04](rl_04)
+
+Mirrored on [ao3](https://archiveofourown.org/works/59798548).
 
 ## RIQ
 
