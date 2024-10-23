@@ -32,7 +32,7 @@ Mirrored on [ao3](https://archiveofourown.org/works/59797303).
 
 Things that did not earn their own repos.
 
-## returners' lance
+### returners' lance
 
 **You are back, but Ares is different. Mother is pristine. Aphrodite sings. There is nowhere to run from Lance's neat halls, there is nowhere to hide but your digital dreams.**
 
@@ -48,7 +48,18 @@ Low sci-fi. No humans.
 
 Mirrored on [ao3](https://archiveofourown.org/works/59798548).
 
-## RIQ
+### cheap soda, pink paint, infinite machines
+
+**Leo had lost his voice. Leo has made his peace. Leo is killing time. He's not alone on a tag run, for a change.**
+
+Urban fantasy or cyberpunk, depending on how you view it.
+
+- [00](csppim_00)
+- [01](csppim_01)
+
+Mirrored on [ao3](https://archiveofourown.org/works/59909590).
+
+### RIQ
 
 **Under a cruel hexagonal sky, you will miss the rotten breath of the woods. Do not stop.**
 
