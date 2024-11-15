@@ -1,7 +1,3 @@
----
-tags:
-  - writing
----
 "Ay, I thought it'd take you way longer than three weeks to decide!" - Sel's palm met his shoulder with considerable force as the witch laughed in full voice, startling a group of sparrows from the rivberbank tree. Leo laughed too, watching the water and wind pass under them as indecision left his body in trickles of anxious vapor.
 
 "Me too, honestly," - he spit his gum into the stream and reached into his coat pocket for the next one, without thinking much, - "Last attempt wasn't exactly guilt-free."
@@ -80,7 +76,7 @@ Their round face was folded into a desperate expression, fingers clutching the d
 
 "I promise I won't."
 
-He scratched the stubble on neck, unsure how to fill the awkward silence.
+He scratched the stubble on his neck, unsure how to fill the awkward silence.
 
 Wind tugged playfully at his hair. A truck passed behind them, metal rattling in the tarp-covered trailer. Evening sun glinted off the glass faces of Stacks rising in the mist far ahead, two hours by train beyond the river's bends.
 
@@ -122,7 +118,7 @@ Leo blinked at the drone, disoriented by the sudden compliment. A crackling digi
 
 The metal bird hopped onto the witch's shoulder, still giggling, while they squat down, ruffling through their duffel bag.
 
-"You hungry?" - Sel looked up at him, already biting on a protein bar. Leo nodded, and barely caught another foil packet tossed at him, - "Let's go, next one's two kilometers down, banger spot in an old mall".
+"You hungry?" - Sel looked up, already biting on a protein bar. Leo nodded, and barely caught another foil packet tossed at him, - "Let's go, next one's two kilometers down, banger spot in an old mall".
 
 "Always love me some malls," - he sighed, zipping his backpack, and got up with a groan, following the witch back onto the rail tracks, - "Are your legs made out of steel or something?"
 
