@@ -56,7 +56,8 @@ Urban fantasy or cyberpunk, depending on how you view it.
 
 - [00](csppim_00)
 - [01](csppim_01)
-- [01](csppim_02)
+- [02](csppim_02)
+- [03](csppim_03)
 
 Mirrored on [ao3](https://archiveofourown.org/works/59909590).
 
